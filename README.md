@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi I'm Abdelhameed 👋
 
-<!--
+
 **AbdelhameedMarei/AbdelhameedMarei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+For Statistics:
+https://github-readme-stats.vercel.app/api?username=suyashpatil400&count_private=true&show_icons=true&theme=radical
+
+For Top Languages:
+https://github-readme-stats.vercel.app/api/top-langs/?username=SUYASHPATIL400&show_icons=true&theme=radical
+
+For Adding Icons to profile:
+https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff
+
+For icons:
+https://simpleicons.org/
