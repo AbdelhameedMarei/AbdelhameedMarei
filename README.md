@@ -18,7 +18,7 @@
 <a href="https://twitter.com/abdel7meedmarei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdel7meedmarei" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdelhameedmarei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelhameedmarei" height="30" width="40" /></a>
 <a href="https://fb.com/abdelhameed.marei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelhameed.marei" height="30" width="40" /></a>
-<a href="https://instagram.com/abdelhameedmarei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdelhameedmarei" height="30" width="40" /></a>
+<a href="https://instagram.com/abdelhameed.marei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdelhameedmarei" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
